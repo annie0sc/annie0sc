@@ -1,5 +1,5 @@
 
-Hello! I am Annie, hailing from Abu Dhabi, UAE. My native place is Hyderabad, Telangana, India. Currently pursuing a Master's in Applied Computer Science from Northwest Missouri State University, USA; I completed my B. Tech in Computer Science and Engineering from National Institute of Technology Rourkela, India and did my high school from Abu Dhabi Indian School, Abu Dhabi, UAE. Also, I did a certified program in Machine Learning and Artificial Intelligence from the Indian Institute of Technology, Hyderabad, India. 
+Hello! I am Annie, hailing from Abu Dhabi, UAE. My native place is Hyderabad, Telangana, India. Currently working as a System's Engineer in Infosys, I have about 1.5yrs of experience in Java and Spring Boot. I have completed my Master's in Applied Computer Science from Northwest Missouri State University, USA; B. Tech in Computer Science and Engineering from National Institute of Technology Rourkela, India and did my high school from Abu Dhabi Indian School, Abu Dhabi, UAE. Also, I did a certified program in Machine Learning and Artificial Intelligence from the Indian Institute of Technology, Hyderabad, India. 
 My hobbies lie in music and dance. Badminton, chess, and swimming are some sports that I like.
 
 <!--
