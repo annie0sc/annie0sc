@@ -1,4 +1,4 @@
-Life Update!
+## Life Update!
 It has been almost 5yrs since I came to the US, joined multiple companies, and worked for a few. My roles varied from Software Engineer to Developer but mostly revolved around Java, Spring Boot, and Bash Scripting. I did attempt to update my skills by starting certification courses in Udemy, Coursera, and Hackerrank. 
 Unfortunately (dramatic roll), I am inconsistent with my progress, and the certifications are incomplete. Typical.
 Now, I dream of applying for a Ph.D. program AND getting a full scholarship. 
