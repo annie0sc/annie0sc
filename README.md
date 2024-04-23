@@ -1,12 +1,5 @@
-## Life Update!
-It has been almost 5yrs since I came to the US, joined multiple companies, and worked for a few. My roles varied from Software Engineer to Developer but mostly revolved around Java, Spring Boot, and Bash Scripting. I did attempt to update my skills by starting certification courses in Udemy, Coursera, and Hackerrank. 
-Unfortunately (dramatic roll), I am inconsistent with my progress, and the certifications are incomplete. Typical.
-Now, I dream of applying for a Ph.D. program AND getting a full scholarship. 
-Sorry, the reason for all this ranting is that I want to challenge myself to aim high, complete my courses, update my skills through certifications, and achieve a Ph.D. in my favorite field, ML.
 
--------------------------------------------------
-
-Hello! I am Annie, hailing from Abu Dhabi, UAE. My native place is Hyderabad, Telangana, India. Currently working as a System Engineer in Infosys, I have about 1.5 years of experience in Java and Spring Boot. I have completed my Masters in Applied Computer Science from Northwest Missouri State University, USA, B. Tech in Computer Science and Engineering from National Institute of Technology Rourkela, India, and high school from Abu Dhabi Indian School, Abu Dhabi, UAE. Also, I did a certified program in Machine Learning and Artificial Intelligence from the Indian Institute of Technology, Hyderabad, India. 
+Hello! I am Annie, hailing from Abu Dhabi, UAE. My native place is Hyderabad, Telangana, India. Currently working as a System Engineer, I have about 3 years of experience in Java, Spring Boot, SQL, and Bash Scripting. I have completed my Masters in Applied Computer Science from Northwest Missouri State University, USA, B. Tech in Computer Science and Engineering from National Institute of Technology Rourkela, India, and high school from Abu Dhabi Indian School, Abu Dhabi, UAE. Also, I did a certified program in Machine Learning and Artificial Intelligence from the Indian Institute of Technology, Hyderabad, India. 
 My hobbies lie in music and dance. Badminton, chess, and swimming are some sports that I like.
 
 <!--
